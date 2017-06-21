@@ -1,2 +1,2 @@
-# smart_home
-This is a collaborative project to give "smart" capabilities to our dorm rooms at MIT.
+# music_lights
+This is a collaborative project to create light animations to changing sound.
